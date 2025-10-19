@@ -6,17 +6,5 @@ requests
 langchain
 langchain-community
 langchain-openai
-langchain-core
 matplotlib
 seaborn
-python-dotenv
-```
-
-### 2. `.gitignore`
-```
-.env
-.streamlit/secrets.toml
-__pycache__/
-*.pyc
-venv/
-.DS_Store
